@@ -23,10 +23,12 @@ For each novel there are two files: the full novel (`full_authornumber_novelnumb
   - Contains metadata (title, author, year, genre)
 - CollectionSEANovels/
   - 1/
-    - full_1.1.tsv
-    - Dialogue_1.1.tsv
-    - full_1.2.tsv
-    - Dialogue_1.2.tsv
+    -1/
+      - full_1.1.tsv
+      - Dialogue_1.1.tsv
+    -2/
+      - full_1.2.tsv
+      - Dialogue_1.2.tsv
 
 
 ## Citation  
